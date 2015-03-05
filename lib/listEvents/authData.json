@@ -1,9 +1,0 @@
-{
-  "email": "194083905210-qu3lg8tlb997uhm2tu3ept1bapa4c0iq@developer.gserviceaccount.com",
-  "keyFile": "./RRServer-key.pem",
-  "key": "d8c1a952115d6fca337573e4fcfb71a30560bc9d",
-  "scopes": [
-    "https://www.googleapis.com/auth/calendar.readonly"
-  ],
-  "subject":  "server@53.roylarangers.ch"
-}
